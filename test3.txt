@@ -1,0 +1,7 @@
+int 123123asdasd = 0
+int x = 100
+int a = b
+for (int i=0, i<x, i++)
+{
+  printf("Hello")
+}

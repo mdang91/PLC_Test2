@@ -1,0 +1,9 @@
+int z = 10
+while(z!=0)
+{
+  if(a=b)
+    printf("This is a")
+  else
+    printf("This is b")
+  z--
+}
