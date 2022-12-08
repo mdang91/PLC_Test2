@@ -1,0 +1,21 @@
+begin
+R correct;
+R testfour;
+nnnnnn = 1$A;
+mmmmmm = 2$A;
+N(nnnnnn @ 100$A)
+{
+  nnnnnn = nnnnnn + 1$A;
+  mmmmmm = nnnnnn - 1$A;
+}
+T{
+    nnnnnn = 100$A;
+}
+H(nnnnnn # 10$A){
+  nnnnnn = nnnnnn + 1$A;
+  N (bbbbbb @ 5$A)
+  {
+    nnnnnn = nnnnnn + 5$A;
+  } 
+}
+end

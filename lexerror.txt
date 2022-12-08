@@ -1,0 +1,13 @@
+begin
+R c_c_c_c_c_c_c;
+R ddddddd;
+R eeeeee;
+R ggggg;
+r aaaaaa;
+if (ccccccc @ 100){
+  bbbbbb = 1 + 2;
+}
+else{
+  bbbbbb = 3$A + 4$A;
+}
+en

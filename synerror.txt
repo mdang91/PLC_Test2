@@ -1,0 +1,14 @@
+begin
+R t_testtt;
+R ddddddd;
+R aaaaaa;
+N (){
+  bbbbbb = 1$A + 2$
+
+T{
+  bbbbbb = 3$B + 4$B;
+}
+H(){
+  nnnnnn = nnnnnn + 1$A;;
+}
+end

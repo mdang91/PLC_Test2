@@ -1,0 +1,13 @@
+begin
+R t_testtt;
+R ddddddd;
+R eeeeee;
+R gggg_g;
+R aaaaaa;
+N (ccccccc @ 100$A){
+  bbbbbb = 1$A + 2$A;
+}
+T{
+  bbbbbb = 3$A + 4$A;
+}
+end
